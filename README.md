@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+💻 My Blog : [q1jun.cn](https://q1jun.cn)
+
+📫 E-mail : [q1junn@qq.com](mailto:q1junn@qq.com)
 <!--
 **q1jun/q1jun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,6 +15,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
 ## 🚩 Status
